@@ -6,11 +6,11 @@
   <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/MrMKN/Professor-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://github.com/MrMKN/Professor-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/MrMKN/Professor-Bot/)   
+[![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](
+[![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://https://github.com/kannappi753/
+[![Size](https://img.shields.io/github/repo-size/MrMKN/Professor-Bot?style=flat-square&color=green)]https://github.com/kannappi753/PROFESSOR-BOT
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/MrMKN/Professor-Bot/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/kannappi753/
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
